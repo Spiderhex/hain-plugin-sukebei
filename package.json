@@ -1,0 +1,26 @@
+{
+  "name": "hain-plugin-sukebei",
+  "version": "1.0.1-2",
+  "description": "browse torrents and access magnet uris from sukebei.nyaa",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {},
+  "author": "Angrevol",
+  "license": "MIT",
+  "keywords": [
+    "hain0",
+    "hain-0.5.0"
+  ],
+  "dependencies": {
+    "got": "latest",
+    "cookie": "latest",
+    "cheerio": "latest",
+    "torrent-to-magnet": "latest"
+  },
+  "hain": {
+    "prefix": "/suk",
+    "usage": "/suk something",
+    "icon": "./suk.png",
+    "redirect": "/suk "
+  }
+}
