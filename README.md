@@ -1,16 +1,16 @@
-# hain-plugin-nya
-A hain plugin to browse and download from nyaa.se
+# hain-plugin-sukebei
+A hain plugin to browse and download from sukebei.nyaa.se
 
 ## Installation
 
 ```
-/hpm install nya
+/hpm install sukebei
 ```
 
 ## Usage
 
 ```
-/nya query
+/sukebei query
 ```
 
 See [Hain](https://github.com/appetizermonster/hain)
