@@ -1,6 +1,6 @@
 {
   "name": "hain-plugin-sukebei",
-  "version": "1.0.1-2",
+  "version": "1.0.1",
   "description": "browse torrents and access magnet uris from sukebei.nyaa",
   "main": "index.js",
   "scripts": {},
